@@ -1,113 +1,113 @@
 [[libportaudio]]
-arch = "i686"
-git-tree-sha1 = "22ebfe21801e4e130e2b4d7acbdd23ed237cb1af"
-libc = "glibc"
-os = "linux"
-
-    [[libportaudio.download]]
-    sha256 = "7aaef9b73283a1afa3b4a2d14117a344e858128af0a4c8d0179207e319323520"
-    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+0/libportaudio.v19.6.0.i686-linux-gnu.tar.gz"
-[[libportaudio]]
-arch = "x86_64"
-git-tree-sha1 = "d894b77968be319e077e4fe451645c47dafc25d2"
-libc = "glibc"
-os = "linux"
-
-    [[libportaudio.download]]
-    sha256 = "6776c66c4dfb2f80bd84215f04ca50378087de104c08469e0b52e4507a5812bd"
-    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+0/libportaudio.v19.6.0.x86_64-linux-gnu.tar.gz"
-[[libportaudio]]
-arch = "i686"
-git-tree-sha1 = "b262ce06193383904705e6b483d9ced1a7dca5f5"
-os = "windows"
-
-    [[libportaudio.download]]
-    sha256 = "597b98c85cdaca31b61ea8fc9579b852db04c57af5ddb7df008c861beb476a00"
-    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+0/libportaudio.v19.6.0.i686-w64-mingw32.tar.gz"
-[[libportaudio]]
-arch = "x86_64"
-git-tree-sha1 = "6ad43640f6f7bd7b698ce3581b84ae40b05c1adf"
-libc = "musl"
-os = "linux"
-
-    [[libportaudio.download]]
-    sha256 = "5059f9ed95d82623a6f21ebc8f66352a3f882135175ce102a472db59c93714ac"
-    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+0/libportaudio.v19.6.0.x86_64-linux-musl.tar.gz"
-[[libportaudio]]
-arch = "armv7l"
-git-tree-sha1 = "638ea47391a257599d6d3794156368544d10a023"
-libc = "glibc"
-os = "linux"
-
-    [[libportaudio.download]]
-    sha256 = "aafdb32f8e70fc02553da42540141b25f738d84fd07321996b6eeebfec70b138"
-    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+0/libportaudio.v19.6.0.arm-linux-gnueabihf.tar.gz"
-[[libportaudio]]
 arch = "aarch64"
-git-tree-sha1 = "67cfd5e4c9752570f2ebbe83ce09aaa4ad1eb7ce"
+git-tree-sha1 = "188bba309285cd2eb7b6f648d3213beff6c410a3"
 libc = "musl"
 os = "linux"
 
     [[libportaudio.download]]
-    sha256 = "ce830647685233f15f5b941cb6344906d76d83b43cf8d9b6ecfb92a1c070ea64"
-    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+0/libportaudio.v19.6.0.aarch64-linux-musl.tar.gz"
+    sha256 = "d6d6bbb2dc227afab30edd13d89381b9ba604987371e10dda316188bc5d77f26"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+1/libportaudio.v19.6.0.aarch64-linux-musl.tar.gz"
 [[libportaudio]]
-arch = "powerpc64le"
-git-tree-sha1 = "3e0cccd853f02127045cdb7b5796d2599192af3f"
-libc = "glibc"
+arch = "i686"
+git-tree-sha1 = "75395e53dc48b5cddc27e7c5006898a68ee8f01e"
+libc = "musl"
 os = "linux"
 
     [[libportaudio.download]]
-    sha256 = "e067495e3373978cb5c280dc4f2736dff65fdbe0545fd572d864f39e01a8e755"
-    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+0/libportaudio.v19.6.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "b0f5d0224d299fc93ccf3fc37b803e0fabbe9dcc4e755c9fb93b5f8371ec737d"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+1/libportaudio.v19.6.0.i686-linux-musl.tar.gz"
 [[libportaudio]]
 arch = "x86_64"
-git-tree-sha1 = "00c866920f84f7eeaa7f31ffe55baba8d544b5e6"
+git-tree-sha1 = "9dc97e8080e8aaa3299473999eecad88fe950316"
 os = "freebsd"
 
     [[libportaudio.download]]
-    sha256 = "f3c60ed5be4c3b8ec2e872f0822cdf6b06ef3eaf0360ff5ce129f3d01eedbe19"
-    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+0/libportaudio.v19.6.0.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "8faeed4b97085c0cf888badc282eccba6e8ecc9ceb75c7c043397d34312e7fac"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+1/libportaudio.v19.6.0.x86_64-unknown-freebsd11.1.tar.gz"
 [[libportaudio]]
 arch = "aarch64"
-git-tree-sha1 = "2d5083de16b608de69fce759c2281267d74c272b"
+git-tree-sha1 = "81ff3942892ee0fb3ed8f013ad0f3eee0ac4a800"
 libc = "glibc"
 os = "linux"
 
     [[libportaudio.download]]
-    sha256 = "c1ef068b9b89fd9662362ea5433ec3b779ab4dd3ceabde6f7b82b2419dda9155"
-    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+0/libportaudio.v19.6.0.aarch64-linux-gnu.tar.gz"
-[[libportaudio]]
-arch = "i686"
-git-tree-sha1 = "7ab7bfc8324e17953518c3737316b179da1023b9"
-libc = "musl"
-os = "linux"
-
-    [[libportaudio.download]]
-    sha256 = "6bda4bfc3b8d860d5c416c4a64a0531271bec1ae00b9c38d19c91eaf35472314"
-    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+0/libportaudio.v19.6.0.i686-linux-musl.tar.gz"
-[[libportaudio]]
-arch = "armv7l"
-git-tree-sha1 = "a3f4cb896fa36d9e05a9d47c9590967e21ec1723"
-libc = "musl"
-os = "linux"
-
-    [[libportaudio.download]]
-    sha256 = "11d3855ceff7309618fddcfcbbced912fd1f53b3fec66c408aef67a18a754e09"
-    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+0/libportaudio.v19.6.0.arm-linux-musleabihf.tar.gz"
+    sha256 = "76ee477895ab32e636a1e46dd4ab2d61ec6803a11a3c7b626809bc769cfa7fef"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+1/libportaudio.v19.6.0.aarch64-linux-gnu.tar.gz"
 [[libportaudio]]
 arch = "x86_64"
-git-tree-sha1 = "877dacb209a1a91f31f04a7a8fad580b6fa6b932"
+git-tree-sha1 = "7a5fafa589b18283668647cd7dc033febb157da9"
 os = "windows"
 
     [[libportaudio.download]]
-    sha256 = "cfbee1ae5bce2b1112c3ea268ffdbad7da7e0e369f9166437231ae901756ed56"
-    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+0/libportaudio.v19.6.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "2a09d1287b4641bb3f5fceed3203c84815e31a086581577644df3702d6503c36"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+1/libportaudio.v19.6.0.x86_64-w64-mingw32.tar.gz"
+[[libportaudio]]
+arch = "i686"
+git-tree-sha1 = "f8f2c15dc0739ca916a4fe26e268ee919c7b708f"
+libc = "glibc"
+os = "linux"
+
+    [[libportaudio.download]]
+    sha256 = "e471725b5d2e61c8fd481ff044860afb63c592ae5a811295ce00269e64dbf85c"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+1/libportaudio.v19.6.0.i686-linux-gnu.tar.gz"
 [[libportaudio]]
 arch = "x86_64"
-git-tree-sha1 = "bfee0848e0bebd02c4c7b2cf94a63cc7cffc98ab"
+git-tree-sha1 = "fd58d0dcf1dcc06ce07df665cf2652ff8e5f8e76"
+libc = "musl"
+os = "linux"
+
+    [[libportaudio.download]]
+    sha256 = "93209fa75aca1c1345146cf726f3a00768f506689005e077834b2aecae678853"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+1/libportaudio.v19.6.0.x86_64-linux-musl.tar.gz"
+[[libportaudio]]
+arch = "x86_64"
+git-tree-sha1 = "885af10558a8e7ef254b5ae1e5fef9be819764cf"
+libc = "glibc"
+os = "linux"
+
+    [[libportaudio.download]]
+    sha256 = "c045c3d23400442e2cdb58ad2008c45b5161e020912053be5ba4b8b90d871a9d"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+1/libportaudio.v19.6.0.x86_64-linux-gnu.tar.gz"
+[[libportaudio]]
+arch = "armv7l"
+git-tree-sha1 = "0e5d16fae02d33dd2e8c8fc55c07239dc05cd462"
+libc = "musl"
+os = "linux"
+
+    [[libportaudio.download]]
+    sha256 = "697fd4fb3cc7a293fe9cdaa5196a374320f4ce3d199af247ea4ce3017237484b"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+1/libportaudio.v19.6.0.arm-linux-musleabihf.tar.gz"
+[[libportaudio]]
+arch = "i686"
+git-tree-sha1 = "a2b3650f55c973b713adb16a7f205b857d77e409"
+os = "windows"
+
+    [[libportaudio.download]]
+    sha256 = "9faf7d352f3a424f96e6aaaf60739327b71609652b8c98c54815a7bb495b2331"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+1/libportaudio.v19.6.0.i686-w64-mingw32.tar.gz"
+[[libportaudio]]
+arch = "armv7l"
+git-tree-sha1 = "4ba5429bc48097a7649d8162edf2072f747a2859"
+libc = "glibc"
+os = "linux"
+
+    [[libportaudio.download]]
+    sha256 = "cebfc20249b1545e1d7862fdec9a41f2ae46fd20ba99fbf9a93135608ad1668c"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+1/libportaudio.v19.6.0.arm-linux-gnueabihf.tar.gz"
+[[libportaudio]]
+arch = "x86_64"
+git-tree-sha1 = "44e8ee8ef3afb9227c3486026bc6714bcf5b95ab"
 os = "macos"
 
     [[libportaudio.download]]
-    sha256 = "b4c75168da08e989d949da0d2412971d007722e793bce508123a3c9915c8104a"
-    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+0/libportaudio.v19.6.0.x86_64-apple-darwin14.tar.gz"
+    sha256 = "e7d51bddf799f7d854f5741f07c6dc054af2d30aa1192a9c9a580d223537be6d"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+1/libportaudio.v19.6.0.x86_64-apple-darwin14.tar.gz"
+[[libportaudio]]
+arch = "powerpc64le"
+git-tree-sha1 = "4cc618d05e5562ee5f7840e6aa16fd638b43db4b"
+libc = "glibc"
+os = "linux"
+
+    [[libportaudio.download]]
+    sha256 = "029744135f391539cd73f5605023787d371c334dc5904832c75d6b8cae17219e"
+    url = "https://github.com/JuliaBinaryWrappers/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+1/libportaudio.v19.6.0.powerpc64le-linux-gnu.tar.gz"
