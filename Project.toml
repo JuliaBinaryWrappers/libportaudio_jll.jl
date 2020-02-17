@@ -1,6 +1,6 @@
 name = "libportaudio_jll"
 uuid = "2d7b7beb-0762-5160-978e-1ab83a1e8a31"
-version = "19.6.0+1"
+version = "19.6.0+2"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
